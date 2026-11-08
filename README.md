@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Thomas 👋
 
-<!--
-**thomasj2026/thomasj2026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+I'm a Mechanical Engineering researcher interested in:
+- Dynamical Systems and Control
+- Robust State Estimation
+- Robotics and Automation
+- Machine Learning
 
-Here are some ideas to get you started:
+### 🛠️ Technical Skills
+- **Languages:** Python, MATLAB, C++
+- **Tools:** Git, GitHub, NumPy, SciPy
+- **Frameworks & Simulation:** ROS 2, Gazebo, MuJoCo
+- - **Machine Learning:** PyTorch, scikit-learn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect With Me
+- Email: ti237@cornell.edu
+- LinkedIn: https://www.linkedin.com/in/thomas-istvan1/
