@@ -11,7 +11,7 @@ I'm a Mechanical Engineering researcher interested in:
 - **Languages:** Python, MATLAB, C++
 - **Tools:** Git, GitHub, NumPy, SciPy
 - **Frameworks & Simulation:** ROS 2, Gazebo, MuJoCo
-- - **Machine Learning:** PyTorch, scikit-learn
+- **Machine Learning:** PyTorch, scikit-learn
 
 ### 📫 Connect With Me
 - Email: ti237@cornell.edu
