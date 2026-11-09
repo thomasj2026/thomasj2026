@@ -10,7 +10,7 @@ I'm a Mechanical Engineering researcher interested in:
 ### 🛠️ Technical Skills
 - **Languages:** Python, MATLAB, C++
 - **Tools:** Git, GitHub, NumPy, SciPy
-- **Frameworks & Simulation:** ROS 2, Gazebo, MuJoCo
+- **Frameworks & Simulation:** ROS 2, Gazebo, MuJoCo, Unreal Engine
 - **Machine Learning:** PyTorch, scikit-learn
 
 ### 📫 Connect With Me
